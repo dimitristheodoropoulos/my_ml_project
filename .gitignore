@@ -1,0 +1,23 @@
+# Εξαίρεση φακέλων και αρχείων για το my_ml_project
+
+# VS Code ρυθμίσεις
+.vscode/
+my_ml_project_optimized.code-workspace
+
+# Εικονικό περιβάλλον Python
+venv/
+
+# Αρχεία δεδομένων
+data/diabetes.csv
+
+# Αρχεία μοντέλου
+*.pkl
+
+# Προσωρινά αρχεία συστήματος
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Logs
+*.log
